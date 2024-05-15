@@ -1,4 +1,6 @@
-# ~~Boring~~ Efficient Meeting Pattern - EMP  *v0.1*
+[![Logo](icons/logo.png)](https://blamouche.github.io/efficientmeeting/) 
+
+# Efficient Meeting Pattern - EMP  *v0.1*
 
 
 ## Why?
