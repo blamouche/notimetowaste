@@ -1,6 +1,6 @@
 # ~~Boring~~ Efficient Meeting Pattern - EMP  *v0.1*
 
-## About
+## Why ?
 
 Efficient Meeting Pattern a pour but de diviser par 4 le temps consacré aux meetings de "reporting" qui sont le "cancer" de nos organisations.
 
@@ -41,6 +41,7 @@ Le principe s'articule autour d'un module central que l'on va enrichir de module
 | Apply the efficient meeting pattern | ✓ | ✓ | ✓ |
 | Être à l'heure aux meetings | ✓ | ✓ | ✓ |
 | Reporter le meeting si les participants "obligatoires" ne sont pas présents | ✓ | ✓ | ✓ |
+| Je m'assure que le temps est sous contrôle (time keeper) |  | ✓ | ✓ |
 | Je viens de manière préparée aux meetings |  | ✓ | ✓ |
 | - |  | ✓ | ✓ |
 | - |  | ✓ | ✓ |
@@ -67,7 +68,8 @@ Le principe s'articule autour d'un module central que l'on va enrichir de module
 
 1. Préparer son meeting
 2. Envoyer l'invitation incluant tous les détails en suivant le template
-3. Conduire le meeting
+3. Partager les updates et feedbacks sur le document partagé
+4. Conduire le meeting
 
 
 ### Meeting agenda & timing
@@ -77,7 +79,36 @@ Le principe s'articule autour d'un module central que l'on va enrichir de module
 
 ### Invitation template
 
+#### Meeting title
 
+    [An explicit and attractive title] - Read this before the meeting
+
+Important to mention the fact that **the invite must be read before** the meeting.
+
+#### Meeting content
+
+You can copy/paste this template : 
+
+    Collaboration topic(s) :
+    - Topic 1
+    - Topic 2 (if required / possible)
+    
+	Objective : 
+	[A clear sentence explaining the objective of the discussion]
+	
+	Documents :
+	- List all the necessary documents for the meeting (attached to the invite or link included)
+	
+	Updates : 
+	Please share your updates on this document before the meeting : 
+	[insert link here]
+	
+    Agenda [Example, to be updated] :
+    - 5 minutes for Introduction
+	- 10 minutes for Q&A and potentials alerts
+	- 30 minutes for collaboration
+
+In case there is no imediate need to collaborate on a specific topic, you can skip the last 30 minutes of the meeting.
 
 ## How to communicate and get adhesion from your team ?
 
@@ -111,8 +142,12 @@ Le principe s'articule autour d'un module central que l'on va enrichir de module
 
 
 ## Contributors
+
 - Benoit Lamouche
 
+### How to contribute ?
+
 ## Licence
+
 
 
