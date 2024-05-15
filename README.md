@@ -18,9 +18,9 @@ The principle revolves around a central module that is enriched with satellite m
 
 ## How to start?
 
-Efficient Meeting Pattern follows a logic of transformation. It is therefore recommended to gradually start applying the principles and increase the level as the team becomes more engaged.
+Efficient Meeting Pattern follows a logic of transformation. It is therefore recommended to gradually start applying the principles and increase the [level](#3-levels) as the team becomes more engaged.
 
-Below are the details of the 3 EMP levels.
+Below are the details of the [3 EMP levels](#3-levels).
 
 
 ## 3 levels
@@ -30,7 +30,7 @@ Below are the details of the 3 EMP levels.
 | **Before the meeting** | | | |
 | Apply the [efficient meeting pattern](#the-pattern) | ✓ | ✓ | ✓ |
 | Share the topic to be discussed, the goal of the discussion, and the success criteria | ✓ | ✓ | ✓ |
-| Share reporting elements in a known, shared, and archivable place (Loop, Notion…) | ✓ | ✓ | ✓ |
+| Share reporting elements in a known, shared, and archivable place (OneNote, Loop, Notion…) | ✓ | ✓ | ✓ |
 | Share documents to read/know to effectively conduct the meeting | ✓ | ✓ | ✓ |
 | Share concepts and notions to know to effectively conduct the meeting | ✓ | ✓ | ✓ |
 | Respond YES to invitations if I can/must attend | ✓ | ✓ | ✓ |
@@ -50,7 +50,10 @@ Below are the details of the 3 EMP levels.
 | Ensure that time is managed (timekeeper) |  | ✓ | ✓ |
 | Come prepared to the meetings |  | ✓ | ✓ |
 | **After the meeting** | | | |
-| - |  |  |  |
+| Share the minutes of the meeting | ✓ | ✓ | ✓ |
+| Share and assign the task list | ✓ | ✓ | ✓ |
+| Share the next steps | ✓ | ✓ | ✓ |
+| Add your todos on your personal task management system (if applicable) |  | ✓ | ✓ |
 
 
 
@@ -61,7 +64,7 @@ Below are the details of the 3 EMP levels.
 ### Sequence
 
 1. Prepare your meeting
-2. Send the invitation including all details following the template
+2. Send the invitation including all details following the [template](#meeting-template)
 3. Share updates and feedback on the shared document
 4. Conduct the meeting
 
@@ -70,22 +73,60 @@ Below are the details of the 3 EMP levels.
 - 10 minutes for Q&A and potential alerts
 - *(Optional)* 30 minutes for collaboration
 
-### Invitation template
+### Templates
 
+#### Sharing document template
 
+This document is used to share all updates prior to the meeting so that participants can focus on the essentials during the discussion. 
 
+Participants should update and read this document before the meeting.
 
-#### Meeting title
-
-    [An explicit and attractive title] - Read this before the meeting
-
-It is important to mention that **the invite must be read before** the meeting.
-
-#### Meeting content
-
-You can copy/paste this template and update & remove according to your needs:
+> You can copy/paste this template and update & remove according to your
+> needs.
 
 ---
+**Date:** [Insert date here]
+
+**Participants:** [Insert list of participants here]
+
+**Updates:**
+- [To be updated] 
+- List item
+- List item
+- ...
+
+**Alerts:**
+- [To be updated]
+- List item
+- List item
+- ...
+
+**Minutes of the meeting:** 
+[To be updated]
+
+**Todolist**:
+
+ - [ ] [To be updated]
+ - [ ] List item
+ - [ ] List item
+
+**Next steps:**
+  - [ ] [To be updated]
+ - [ ] List item
+ - [ ] List item
+
+---
+
+#### Meeting template
+
+It is important to mention that **the invite must be read before** the meeting (in the meeting's title).
+
+> You can copy/paste this template and update & remove according to your
+> needs.
+
+---
+**Meeting title :** 
+[An explicit and attractive title] - Read this before the meeting
 
 **Collaboration topic(s):**
    - Topic 1
@@ -178,7 +219,7 @@ You can contribute to EMP by posting your comments and suggestions.
 
 ## Licence
 
-[Efficient Meeting Pattern](https://blamouche.github.io/efficientmeeting/) © 2024 by [Benoit Lamouche](https://lamouche.fr/) is licensed under  [CC BY-NC-ND 4.0 ](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
+This work © 2024 by [Benoit Lamouche](https://lamouche.fr/) is licensed under  [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
 
 
 
