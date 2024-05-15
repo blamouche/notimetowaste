@@ -9,14 +9,16 @@ EMP est comme une application qui vous offrirait plusieurs niveaux de features, 
 
 ## Modules
 Le principe s'articule autour d'un module central que l'on va enrichir de modules satellites en fonction de notre niveau d'attente et maturité.
-~~Mettre ici schema~~
 
 ## How to start ?
 
+Efficient Meeting Pattern suit une logique de transformation, il est donc conseillé de commencer progressivement à appliquer les principes et d'augmenter le niveau au fur et à mesure de l'adhésion de l'équipe.
+
+Ci-dessous, le détail des 3 niveaux EMP.
 
 ## 3 levels
 
-| *Features*| Level 1 - The minimalist | Level 2 - The perfectionist | Level 3 - The Nerd |
+| *Features*| Level 1 - The minimalist ![enter image description here](icons/level-perfectionist-s.png) | Level 2 - The perfectionist | Level 3 - The Nerd |
 |:--|:--:|:--:|:--:|
 | **Before the meeting**| | | |
 | Apply the efficient meeting pattern | ✓ | ✓ | ✓ |
@@ -34,32 +36,14 @@ Le principe s'articule autour d'un module central que l'on va enrichir de module
 | Réduire de 10 minutes la fin du meeting |  | ✓ | ✓ |
 | Prendre 5’ en fin de journée pour passer en revue les meetings du lendemain et vérifier si conflits |  | ✓ | ✓ |
 | Prendre 5’ en milieu de journée pour préparer les meetings du lendemain |  |  | ✓ |
-| - |  | ✓ | ✓ |
-| - |  | ✓ | ✓ |
-| - |  | ✓ | ✓ |
 | **During the meeting** | | | |
 | Apply the efficient meeting pattern | ✓ | ✓ | ✓ |
 | Être à l'heure aux meetings | ✓ | ✓ | ✓ |
 | Reporter le meeting si les participants "obligatoires" ne sont pas présents | ✓ | ✓ | ✓ |
 | Je m'assure que le temps est sous contrôle (time keeper) |  | ✓ | ✓ |
 | Je viens de manière préparée aux meetings |  | ✓ | ✓ |
-| - |  | ✓ | ✓ |
-| - |  | ✓ | ✓ |
-| - |  | ✓ | ✓ |
-| - |  | ✓ | ✓ |
-| - |  | ✓ | ✓ |
-| - |  | ✓ | ✓ |
-| - |  | ✓ | ✓ |
 | **After the meeting** | | | |
-| - |  | ✓ | ✓ |
-| - |  | ✓ | ✓ |
-| - |  | ✓ | ✓ |
-| - |  | ✓ | ✓ |
-| - |  | ✓ | ✓ |
-| - |  | ✓ | ✓ |
-| - |  | ✓ | ✓ |
-| - |  | ✓ | ✓ |
-| - |  | ✓ | ✓ |
+| - |  |  |  |
 
 
 ## The pattern
@@ -89,24 +73,32 @@ Important to mention the fact that **the invite must be read before** the meetin
 
 You can copy/paste this template : 
 
-    Collaboration topic(s) :
-    - Topic 1
-    - Topic 2 (if required / possible)
-    
-	Objective : 
-	[A clear sentence explaining the objective of the discussion]
-	
-	Documents :
-	- List all the necessary documents for the meeting (attached to the invite or link included)
-	
-	Updates : 
-	Please share your updates on this document before the meeting : 
-	[insert link here]
-	
-    Agenda [Example, to be updated] :
-    - 5 minutes for Introduction
-	- 10 minutes for Q&A and potentials alerts
-	- 30 minutes for collaboration
+---
+
+**Collaboration topic(s) :**
+   - Topic 1
+   - Topic 2 (if required / possible)
+   
+**Objective :** 
+[A clear sentence explaining the objective of the discussion]
+
+**Documents :**
+- List all the necessary documents for the meeting (attached to the invite or link included)
+
+**Updates :** 
+Please share your updates on this document before the meeting : 
+[insert link here]
+
+**Agenda [Example, to be updated] :**
+- 5 minutes for Introduction
+- 10 minutes for Q&A and potentials alerts
+- 30 minutes for collaboration
+
+**Methodology :** 
+I'm following [Efficient Meeting Pattern](https://blamouche.github.io/efficientmeeting/) in order to reduce the time I spend into non-productive meeting.
+You can find all the details and documentation about [EMP on this page](https://blamouche.github.io/efficientmeeting/).
+
+---
 
 In case there is no imediate need to collaborate on a specific topic, you can skip the last 30 minutes of the meeting.
 
@@ -147,7 +139,12 @@ In case there is no imediate need to collaborate on a specific topic, you can sk
 
 ### How to contribute ?
 
+Vous pouvez contribuer à EMP  en postant vos commentaires et suggestions.
+[Créer un ticket](https://github.com/blamouche/efficientmeeting/issues)
+
 ## Licence
+
+[Efficient Meeting Pattern](https://blamouche.github.io/efficientmeeting/) © 2024 by [Benoit Lamouche](https://lamouche.fr/) is licensed under  [CC BY-NC-ND 4.0 ](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
 
 
 
