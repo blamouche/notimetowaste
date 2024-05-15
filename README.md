@@ -98,7 +98,12 @@ Please share your updates on this document before the meeting :
 I'm following [Efficient Meeting Pattern](https://blamouche.github.io/efficientmeeting/) in order to reduce the time I spend into non-productive meeting.
 You can find all the details and documentation about [EMP on this page](https://blamouche.github.io/efficientmeeting/).
 
-
+[![Level 1](icons/level-minimalist-s.png)](https://blamouche.github.io/efficientmeeting/) 
+[![Level 2](icons/level-perfectionist-s.png)](https://blamouche.github.io/efficientmeeting/) 
+[![Level 3](icons/level-nerd-s.png)](https://blamouche.github.io/efficientmeeting/) 
+[![Level 1](icons/level-1-s.png)](https://blamouche.github.io/efficientmeeting/) 
+[![Level 2](icons/level-2-s.png)](https://blamouche.github.io/efficientmeeting/) 
+[![Level 3](icons/level-3-s.png)](https://blamouche.github.io/efficientmeeting/) 
 
 ---
 
