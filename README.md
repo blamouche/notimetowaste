@@ -168,7 +168,7 @@ We have two sets of badges to choose from according to your preferences (copy/pa
 
 ## Contributors
 
-- Benoit Lamouche
+- [Benoit Lamouche](https://lamouche.fr)
 
 
 ### Want to contribute?
