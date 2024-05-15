@@ -18,10 +18,10 @@ Ci-dessous, le détail des 3 niveaux EMP.
 
 ## 3 levels
 
-| *Features*| Level 1 - The minimalist ![enter image description here](icons/level-minimalist-s.png) | Level 2 - The perfectionist ![enter image description here](icons/level-perfectionist-s.png) | Level 3 - The Nerd ![enter image description here](icons/level-nerd-s.png) |
+| *Features*| Level 1 - The minimalist ![Level 1](icons/level-minimalist-s.png) | Level 2 - The perfectionist ![Level 2](icons/level-perfectionist-s.png) | Level 3 - The Nerd ![Level 3](icons/level-nerd-s.png) |
 |:--|:--:|:--:|:--:|
 | **Before the meeting**| | | |
-| Apply the efficient meeting pattern | ✓ | ✓ | ✓ |
+| Apply the [efficient meeting pattern](#the-pattern) | ✓ | ✓ | ✓ |
 | Partager le sujet qui sera discuté, l’objectif de la discussion et les ou les critères de success | ✓ | ✓ | ✓ |
 | Partager les éléments de reporting dans un endroit connu, partagé et archivable (Loop, Notion…) | ✓ | ✓ | ✓ |
 | Partager les documents à lire / connaitre afin de bien mener le meeting | ✓ | ✓ | ✓ |
@@ -37,7 +37,7 @@ Ci-dessous, le détail des 3 niveaux EMP.
 | Prendre 5’ en fin de journée pour passer en revue les meetings du lendemain et vérifier si conflits |  | ✓ | ✓ |
 | Prendre 5’ en milieu de journée pour préparer les meetings du lendemain |  |  | ✓ |
 | **During the meeting** | | | |
-| Apply the efficient meeting pattern | ✓ | ✓ | ✓ |
+| Apply the [efficient meeting pattern](#the-pattern) | ✓ | ✓ | ✓ |
 | Être à l'heure aux meetings | ✓ | ✓ | ✓ |
 | Reporter le meeting si les participants "obligatoires" ne sont pas présents | ✓ | ✓ | ✓ |
 | Je m'assure que le temps est sous contrôle (time keeper) |  | ✓ | ✓ |
@@ -97,6 +97,8 @@ Please share your updates on this document before the meeting :
 **Methodology :** 
 I'm following [Efficient Meeting Pattern](https://blamouche.github.io/efficientmeeting/) in order to reduce the time I spend into non-productive meeting.
 You can find all the details and documentation about [EMP on this page](https://blamouche.github.io/efficientmeeting/).
+
+
 
 ---
 
