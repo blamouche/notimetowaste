@@ -148,15 +148,17 @@ Please share your updates on this document before the meeting:
 - 30 minutes for collaboration
 
 **Methodology:** 
-I'm following the [Efficient Meeting Pattern](https://blamouche.github.io/efficientmeeting/) to reduce the time spent in non-productive meetings.
-You can find all the details and documentation about [EMP on this page](https://blamouche.github.io/efficientmeeting/).
+I'm following the [Efficient Meeting Pattern](https://efficientmeeting.lamouche.fr/) to reduce the time spent in non-productive meetings.
+You can find all the details and documentation about [EMP on this page](https://efficientmeeting.lamouche.fr/).
 
-[![Level 1](icons/level-minimalist-s.png)](https://blamouche.github.io/efficientmeeting/) 
-[![Level 2](icons/level-perfectionist-s.png)](https://blamouche.github.io/efficientmeeting/) 
-[![Level 3](icons/level-nerd-s.png)](https://blamouche.github.io/efficientmeeting/) 
-[![Level 1](icons/level-1-s.png)](https://blamouche.github.io/efficientmeeting/) 
-[![Level 2](icons/level-2-s.png)](https://blamouche.github.io/efficientmeeting/) 
-[![Level 3](icons/level-3-s.png)](https://blamouche.github.io/efficientmeeting/) 
+[![Level 1](icons/level-minimalist-s.png)](https://efficientmeeting.lamouche.fr/) 
+[![Level 2](icons/level-perfectionist-s.png)](https://efficientmeeting.lamouche.fr/) 
+[![Level 3](icons/level-nerd-s.png)](https://efficientmeeting.lamouche.fr/) 
+
+
+[![Level 1](icons/level-1-s.png)](https://efficientmeeting.lamouche.fr/) 
+[![Level 2](icons/level-2-s.png)](https://efficientmeeting.lamouche.fr/) 
+[![Level 3](icons/level-3-s.png)](https://efficientmeeting.lamouche.fr/) 
 
 ---
 
@@ -172,12 +174,14 @@ Lead by example. Probably the best way to prove the model's viability.
 Communication. Include the image of your badge in your invitations; this should spark curiosity and perhaps even debates.
 We have two sets of badges to choose from according to your preferences (copy/paste):
 
-[![Level 1](icons/level-minimalist-s.png)](https://blamouche.github.io/efficientmeeting/) 
-[![Level 2](icons/level-perfectionist-s.png)](https://blamouche.github.io/efficientmeeting/) 
-[![Level 3](icons/level-nerd-s.png)](https://blamouche.github.io/efficientmeeting/) 
-[![Level 1](icons/level-1-s.png)](https://blamouche.github.io/efficientmeeting/) 
-[![Level 2](icons/level-2-s.png)](https://blamouche.github.io/efficientmeeting/) 
-[![Level 3](icons/level-3-s.png)](https://blamouche.github.io/efficientmeeting/) 
+[![Level 1](icons/level-minimalist-s.png)](https://efficientmeeting.lamouche.fr/) 
+[![Level 2](icons/level-perfectionist-s.png)](https://efficientmeeting.lamouche.fr/) 
+[![Level 3](icons/level-nerd-s.png)](https://efficientmeeting.lamouche.fr/) 
+
+
+[![Level 1](icons/level-1-s.png)](https://efficientmeeting.lamouche.fr/) 
+[![Level 2](icons/level-2-s.png)](https://efficientmeeting.lamouche.fr/) 
+[![Level 3](icons/level-3-s.png)](https://efficientmeeting.lamouche.fr/) 
 
 
 ## Library & inspiration
