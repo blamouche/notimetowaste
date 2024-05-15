@@ -117,6 +117,7 @@ Lead by example. Probablement la meilleure façon de prouver la viabilité du mo
 
 Communication. Intégrez dans vos invitations l'image de votre badge, cela devrait créer de la curiosité, peut-être même des débats.
 Nous avons deux sets de badges à choisir selon vos préférences (copier/coller) :
+
 [![Level 1](icons/level-minimalist-s.png)](https://blamouche.github.io/efficientmeeting/) 
 [![Level 2](icons/level-perfectionist-s.png)](https://blamouche.github.io/efficientmeeting/) 
 [![Level 3](icons/level-nerd-s.png)](https://blamouche.github.io/efficientmeeting/) 
