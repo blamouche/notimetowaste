@@ -1,11 +1,20 @@
 [![Logo](icons/logo.png)](https://blamouche.github.io/efficientmeeting/) 
 
-# Efficient Meeting Pattern - EMP  *v0.1*
+# Efficient Meeting Pattern - EMP  *v0.2*
 
 
 ## Why?
 
-The Efficient Meeting Pattern aims to reduce by four times the time spent on "reporting" meetings, which are the "cancer" of our organizations.
+
+
+> 90 percent of employees feel meetings are "costly" and "unproductive" 
+
+"Status" meetings are a *waste of time* and *extremely costly* for the company.
+
+    A 1-hour meeting with 4 people = 4 hours spent
+    An all-hands meeting of 2 hours with 40 people = 80 hours = 10 days spent
+
+**The Efficient Meeting Pattern aims to reduce by four times the time spent on "status" meetings**
 
 ## How does it work?
 
@@ -30,9 +39,9 @@ Below are the details of the [3 EMP levels](#3-levels).
 | **Before the meeting** | | | |
 | Apply the [efficient meeting pattern](#the-pattern) | ✓ | ✓ | ✓ |
 | Share the topic to be discussed, the goal of the discussion, and the success criteria | ✓ | ✓ | ✓ |
-| Share reporting elements in a known, shared, and archivable place (OneNote, Loop, Notion…) | ✓ | ✓ | ✓ |
+| Share status elements in a known, shared, and archivable place (OneNote, Loop, Notion…) | ✓ | ✓ | ✓ |
 | Share documents to read/know to effectively conduct the meeting | ✓ | ✓ | ✓ |
-| Share concepts and notions to know to effectively conduct the meeting | ✓ | ✓ | ✓ |
+| Share concepts to know to effectively conduct the meeting | ✓ | ✓ | ✓ |
 | Respond YES to invitations if I can/must attend | ✓ | ✓ | ✓ |
 | Respond NO to invitations if I am absent/on leave/sick | ✓ | ✓ | ✓ |
 | Cancel my meetings if I am absent/on leave/sick | ✓ | ✓ | ✓ |
@@ -65,7 +74,7 @@ Below are the details of the [3 EMP levels](#3-levels).
 
 1. Prepare your meeting
 2. Send the invitation including all details following the [template](#meeting-template)
-3. Share updates and feedback on the shared document
+3. Share status on the shared document
 4. Conduct the meeting
 
 ### Meeting agenda & timing
@@ -210,6 +219,10 @@ We have two sets of badges to choose from according to your preferences (copy/pa
 	- Meeting System: Develop a comprehensive meeting system that supports the organization's strategic goals.
 	- Clear Roles: Assign specific roles in meetings to improve flow and structure (e.g., facilitator, note-taker).
 	- Continuous Feedback: Integrate feedback to continually improve the structure and content of meetings.
+- **Dear Manager, You’re Holding Too Many Meetings** by *Benjamin Laker, Vijay Pereira, Ashish Malik, and Lebene Soga* - [Link](https://hbr.org/2022/03/dear-manager-youre-holding-too-many-meetings) 
+- **Hate Meetings? Considerable Research Reveals the Loophole That Makes Every Meeting Worthwhile** by *Jeff Haden* - [Link](https://www.inc.com/jeff-haden/hate-meetings-considerable-research-reveals-loophole-that-makes-every-meeting-worthwhile.html)
+- **Les équipes distribuées, ça peut marcher ?** by *Bertrand Delacrétaz* - [Link](https://youtu.be/YvNWTZYEI_w)
+- **Stop the Meeting Madness** by *Leslie A. Perlow, Constance Noonan Hadley, and Eunice Eun* - [Link](https://hbr.org/2017/07/stop-the-meeting-madness)
 
 ## Contributors
 
