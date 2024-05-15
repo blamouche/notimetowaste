@@ -18,7 +18,7 @@ Ci-dessous, le détail des 3 niveaux EMP.
 
 ## 3 levels
 
-| *Features*| Level 1 - The minimalist ![enter image description here](icons/level-minimalist-s.png) ![enter image description here](icons/level-1-s.png) | Level 2 - The perfectionist ![enter image description here](icons/level-perfectionist-s.png) ![enter image description here](icons/level-2-s.png) | Level 3 - The Nerd ![enter image description here](icons/level-nerd-s.png) ![enter image description here](icons/level-3-s.png) |
+| *Features*| Level 1 - The minimalist ![enter image description here](icons/level-minimalist-s.png) | Level 2 - The perfectionist ![enter image description here](icons/level-perfectionist-s.png) | Level 3 - The Nerd ![enter image description here](icons/level-nerd-s.png) |
 |:--|:--:|:--:|:--:|
 | **Before the meeting**| | | |
 | Apply the efficient meeting pattern | ✓ | ✓ | ✓ |
