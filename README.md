@@ -71,7 +71,7 @@ Important to mention the fact that **the invite must be read before** the meetin
 
 #### Meeting content
 
-You can copy/paste this template : 
+You can copy/paste this template and update & remove according to your needs : 
 
 ---
 
@@ -111,6 +111,18 @@ In case there is no imediate need to collaborate on a specific topic, you can sk
 
 ## How to communicate and get adhesion from your team ?
 
+Expliquez le "Why", le point de départ, la base. L'idée n'est pas d'ajouter quelques chose ou de proposer "une nouvelle réorganisation". Le fond du sujet c'est le sens de notre travail, et le gaspillage de nos ressources.
+
+Lead by example. Probablement la meilleure façon de prouver la viabilité du modèle.
+
+Communication. Intégrez dans vos invitations l'image de votre badge, cela devrait créer de la curiosité, peut-être même des débats.
+Nous avons deux sets de badges à choisir selon vos préférences (copier/coller) :
+[![Level 1](icons/level-minimalist-s.png)](https://blamouche.github.io/efficientmeeting/) 
+[![Level 2](icons/level-perfectionist-s.png)](https://blamouche.github.io/efficientmeeting/) 
+[![Level 3](icons/level-nerd-s.png)](https://blamouche.github.io/efficientmeeting/) 
+[![Level 1](icons/level-1-s.png)](https://blamouche.github.io/efficientmeeting/) 
+[![Level 2](icons/level-2-s.png)](https://blamouche.github.io/efficientmeeting/) 
+[![Level 3](icons/level-3-s.png)](https://blamouche.github.io/efficientmeeting/) 
 
 ## Library & inspiration
 
