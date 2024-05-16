@@ -2,6 +2,7 @@
 
 # Efficient Meeting Pattern - EMP  v0.2
 
+[Subscribe to updates](https://subscribepage.io/efficientmeeting)
 
 ## Why?
 
@@ -237,6 +238,8 @@ You can contribute to EMP by posting your comments and suggestions.
 [Create a ticket](https://github.com/blamouche/efficientmeeting/issues)
 
 We are on [Github](https://github.com/blamouche/efficientmeeting) .
+
+[Subscribe to updates](https://subscribepage.io/efficientmeeting)
 
 ## Licence
 
