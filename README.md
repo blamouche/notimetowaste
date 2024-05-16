@@ -1,6 +1,6 @@
 [![Logo](icons/logo.png)](https://blamouche.github.io/efficientmeeting/) 
 
-# Efficient Meeting Pattern - EMP  *v0.2*
+# Efficient Meeting Pattern - EMP  ~v0.2~
 
 
 ## Why?
@@ -72,10 +72,10 @@ Below are the details of the [3 EMP levels](#3-levels).
 
 ### Sequence
 
-1. Prepare your meeting
-2. Send the invitation including all details following the [template](#meeting-template)
-3. Share status on the shared document
-4. Conduct the meeting
+1. **Prepare** your meeting
+2. **Send** the invitation including all details following the [template](#meeting-template)
+3. **Share** status on the shared document **asynchronously**
+4. **Conduct** the meeting
 
 ### Meeting agenda & timing
 - 5 minutes for Introduction
@@ -90,39 +90,38 @@ This document is used to share all updates prior to the meeting so that particip
 
 Participants should update and read this document before the meeting.
 
-> You can copy/paste this template and update & remove according to your
-> needs.
+*You can copy/paste this template and update & remove according to your needs.*
 
 ---
-**Date:** [Insert date here]
 
-**Participants:** [Insert list of participants here]
-
-**Updates:**
-- [To be updated] 
-- List item
-- List item
-- ...
-
-**Alerts:**
-- [To be updated]
-- List item
-- List item
-- ...
-
-**Minutes of the meeting:** 
-[To be updated]
-
-**Todolist**:
-
- - [ ] [To be updated]
- - [ ] List item
- - [ ] List item
-
-**Next steps:**
-  - [ ] [To be updated]
- - [ ] List item
- - [ ] List item
+> **Date:** [Insert date here]
+> 
+> **Participants:** [Insert list of participants here]
+> 
+> **Updates:**
+> - [To be updated] 
+> - List item
+> - List item
+> - ...
+> 
+> **Alerts:**
+> - [To be updated]
+> - List item
+> - List item
+> - ...
+> 
+> **Minutes of the meeting:**  [To be updated]
+> 
+> **Todolist**:
+> 
+>  - [ ] [To be updated]
+>  - [ ] List item
+>  - [ ] List item
+> 
+> **Next steps:**
+>   - [ ] [To be updated]
+>  - [ ] List item
+>  - [ ] List item
 
 ---
 
@@ -130,44 +129,47 @@ Participants should update and read this document before the meeting.
 
 It is important to mention that **the invite must be read before** the meeting (in the meeting's title).
 
-> You can copy/paste this template and update & remove according to your
-> needs.
+*You can copy/paste this template and update & remove according to your needs.*
 
 ---
-**Meeting title :** 
-[An explicit and attractive title] - Read this before the meeting
 
-**Collaboration topic(s):**
-   - Topic 1
-   - Topic 2 (if required/possible)
-   
-**Objective:** 
-[A clear sentence explaining the objective of the discussion]
-
-**Documents:**
-- List all the necessary documents for the meeting (attached to the invite or link included)
-
-**Updates:** 
-Please share your updates on this document before the meeting: 
-[insert link here]
-
-**Agenda [Example, to be updated]:**
-- 5 minutes for Introduction
-- 10 minutes for Q&A and potential alerts
-- 30 minutes for collaboration
-
-**Methodology:** 
-I'm following the [Efficient Meeting Pattern](https://efficientmeeting.lamouche.fr/) to reduce the time spent in non-productive meetings.
-You can find all the details and documentation about [EMP on this page](https://efficientmeeting.lamouche.fr/).
-
-[![Level 1](icons/level-minimalist-s.png)](https://efficientmeeting.lamouche.fr/) 
-[![Level 2](icons/level-perfectionist-s.png)](https://efficientmeeting.lamouche.fr/) 
-[![Level 3](icons/level-nerd-s.png)](https://efficientmeeting.lamouche.fr/) 
-
-
-[![Level 1](icons/level-1-s.png)](https://efficientmeeting.lamouche.fr/) 
-[![Level 2](icons/level-2-s.png)](https://efficientmeeting.lamouche.fr/) 
-[![Level 3](icons/level-3-s.png)](https://efficientmeeting.lamouche.fr/) 
+> **Meeting title :**  [An explicit and attractive title] - Read this before the meeting
+> 
+> **Collaboration topic(s):**
+>    - Topic 1
+>    - Topic 2 (if required/possible)
+>    
+> **Objective:**  [A clear sentence explaining the objective of the discussion]
+> 
+> **Documents:**
+> - List all the necessary documents for the meeting (attached to the invite or link included)
+> 
+> **Updates:**  Please share your updates on this document before the meeting:  [insert link here]
+> 
+> **Agenda [Example, to be updated]:**
+> - 5 minutes for Introduction
+> - 10 minutes for Q&A and potential alerts
+> - 30 minutes for collaboration
+> 
+> **Methodology:**  I'm following the [Efficient Meeting Pattern](https://efficientmeeting.lamouche.fr/) to reduce the time
+> spent in non-productive meetings. You can find all the details and
+> documentation about [EMP on this
+> page](https://efficientmeeting.lamouche.fr/).
+> 
+> [![Level
+> 1](icons/level-minimalist-s.png)](https://efficientmeeting.lamouche.fr/)
+> [![Level
+> 2](icons/level-perfectionist-s.png)](https://efficientmeeting.lamouche.fr/)
+> [![Level
+> 3](icons/level-nerd-s.png)](https://efficientmeeting.lamouche.fr/) 
+> 
+> 
+> [![Level
+> 1](icons/level-1-s.png)](https://efficientmeeting.lamouche.fr/) 
+> [![Level
+> 2](icons/level-2-s.png)](https://efficientmeeting.lamouche.fr/) 
+> [![Level
+> 3](icons/level-3-s.png)](https://efficientmeeting.lamouche.fr/)
 
 ---
 
@@ -233,6 +235,8 @@ We have two sets of badges to choose from according to your preferences (copy/pa
 
 You can contribute to EMP by posting your comments and suggestions.
 [Create a ticket](https://github.com/blamouche/efficientmeeting/issues)
+
+We are on [Github](https://github.com/blamouche/efficientmeeting) .
 
 ## Licence
 
