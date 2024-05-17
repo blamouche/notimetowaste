@@ -6,8 +6,7 @@
 
 ## Why?
 
-
-
+-
 
 > 90 percent of employees feel meetings are "costly" and "unproductive" 
 
