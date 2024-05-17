@@ -6,8 +6,6 @@
 
 ## Why?
 
--
-
 > 90 percent of employees feel meetings are "costly" and "unproductive" 
 
 "Status" meetings are a *waste of time* and *extremely costly* for the company.
