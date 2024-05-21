@@ -1,6 +1,6 @@
 [![Logo](icons/logo.png)](https://blamouche.github.io/efficientmeeting/) 
 
-# Efficient Meeting Pattern - EMP  v0.2
+# Efficient Meeting Pattern - EMP  v1.0
 
 [Subscribe to updates](https://subscribepage.io/efficientmeeting)
 
