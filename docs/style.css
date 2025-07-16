@@ -1,0 +1,103 @@
+body {
+  font-family: "Courier New", monospace;
+  margin: 0;
+  line-height: 1.4;
+  background: #fff;
+  color: #000;
+}
+header {
+  background: #fff;
+  color: #000;
+  padding: 2rem 1rem;
+  text-align: center;
+  border-bottom: 4px solid #000;
+}
+header h1 {
+  margin: 0;
+  font-size: 3rem;
+  font-weight: 700;
+}
+header p {
+  margin-top: 0.5rem;
+  font-size: 1.2rem;
+}
+nav {
+  background: #fff;
+  border-bottom: 4px solid #000;
+  text-align: center;
+  padding: 0.75rem;
+}
+nav a {
+  color: #000;
+  margin: 0 1rem;
+  text-decoration: none;
+  font-weight: 700;
+  padding: 0.25rem 0.5rem;
+}
+nav a:hover {
+  background: #000;
+  color: #fff;
+}
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
+  border-left: 4px solid #000;
+  border-right: 4px solid #000;
+}
+section {
+  margin-bottom: 3rem;
+  border-bottom: 2px dashed #000;
+  padding-bottom: 1rem;
+}
+h2 {
+  font-size: 1.8rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #000;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+ul, ol {
+  padding-left: 1.5rem;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  background: #fff;
+}
+table, th, td {
+  border: 2px solid #000;
+}
+th, td {
+  padding: 0.75rem;
+  text-align: left;
+}
+th {
+  background: #eee;
+}
+.badge-img {
+  width: 100px;
+  vertical-align: middle;
+  margin-left: 4px;
+}
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  border-top: 4px solid #000;
+  font-size: 0.875rem;
+  color: #000;
+}
+.copy-btn {
+  cursor: pointer;
+  background: #fff;
+  color: #000;
+  border: 2px solid #000;
+  padding: 0.4em 0.8em;
+  font-size: 0.95em;
+}
+.copy-btn:hover {
+  background: #000;
+  color: #fff;
+}
