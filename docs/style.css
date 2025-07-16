@@ -1,10 +1,20 @@
-/* Brutalist color scheme */
+/* Updated color scheme */
 :root {
-  --color-dark-gray: #4A4A4A;
-  --color-light-gray: #D9D9D9;
-  --color-accent: #FF4C00;
-  --color-black: #1C1C1C;
+  /* Full palette */
+  --color-red: #F04335;
+  --color-red-shadow: #E63C32;
+  --color-yellow: #FCDD2A;
+  --color-yellow-shadow: #F5B626;
+  --color-cyan: #36C6D7;
+  --color-cyan-shadow: #34BACC;
+  --color-black: #22222B;
+  --color-gray: #808181;
   --color-white: #FFFFFF;
+
+  /* Legacy variable mapping */
+  --color-dark-gray: var(--color-red-shadow);
+  --color-light-gray: var(--color-yellow);
+  --color-accent: var(--color-cyan);
 }
 
 body {
@@ -48,8 +58,8 @@ nav a {
   padding: 0.25rem 0.5rem;
 }
 nav a:hover {
-  background: var(--color-white);
-  color: var(--color-black);
+  background: var(--color-red);
+  color: var(--color-white);
 }
 main {
   max-width: 900px;
@@ -61,7 +71,7 @@ main {
 }
 section {
   margin-bottom: 3rem;
-  border-bottom: 2px dashed var(--color-accent);
+  border-bottom: 2px dashed var(--color-yellow-shadow);
   padding-bottom: 1rem;
 }
 h2 {
@@ -94,7 +104,7 @@ th {
 }
 
 .table-section {
-  background: var(--color-light-gray);
+  background: var(--color-gray);
   color: var(--color-black);
   font-weight: bold;
 }
