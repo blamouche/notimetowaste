@@ -2,15 +2,15 @@ body {
   font-family: "Courier New", monospace;
   margin: 0;
   line-height: 1.4;
-  background: #fff;
-  color: #000;
+  background: #FFFFFF;
+  color: #2F1050;
 }
 header {
-  background: #fff;
-  color: #000;
+  background: #6400CD;
+  color: #FFFFFF;
   padding: 2rem 1rem;
   text-align: center;
-  border-bottom: 4px solid #000;
+  border-bottom: 4px solid #2F1050;
 }
 header h1 {
   margin: 0;
@@ -21,40 +21,44 @@ header p {
   margin-top: 0.5rem;
   font-size: 1.2rem;
 }
+
+.logo {
+  height: 300px;
+}
 nav {
-  background: #fff;
-  border-bottom: 4px solid #000;
+  background: #0067FA;
+  border-bottom: 4px solid #2F1050;
   text-align: center;
   padding: 0.75rem;
 }
 nav a {
-  color: #000;
+  color: #FFFFFF;
   margin: 0 1rem;
   text-decoration: none;
   font-weight: 700;
   padding: 0.25rem 0.5rem;
 }
 nav a:hover {
-  background: #000;
-  color: #fff;
+  background: #FFFFFF;
+  color: #2F1050;
 }
 main {
   max-width: 900px;
   margin: 0 auto;
   padding: 1rem;
-  border-left: 4px solid #000;
-  border-right: 4px solid #000;
+  border-left: 4px solid #2F1050;
+  border-right: 4px solid #2F1050;
 }
 section {
   margin-bottom: 3rem;
-  border-bottom: 2px dashed #000;
+  border-bottom: 2px dashed #2F1050;
   padding-bottom: 1rem;
 }
 h2 {
   font-size: 1.8rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
-  color: #000;
+  color: #6400CD;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -65,17 +69,32 @@ table {
   width: 100%;
   border-collapse: collapse;
   margin-top: 1rem;
-  background: #fff;
+  background: #FFFFFF;
 }
 table, th, td {
-  border: 2px solid #000;
+  border: 2px solid #2F1050;
 }
 th, td {
   padding: 0.75rem;
   text-align: left;
 }
 th {
-  background: #eee;
+  background: #0067FA;
+  color: #FFFFFF;
+}
+
+.table-section {
+  background: #0067FA;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+.template {
+  background: #FFFFFF;
+  border: 2px solid #2F1050;
+  padding: 1em;
+  overflow-x: auto;
+  font-size: 0.98em;
 }
 .badge-img {
   width: 100px;
@@ -85,19 +104,21 @@ th {
 footer {
   text-align: center;
   padding: 2rem 1rem;
-  border-top: 4px solid #000;
+  border-top: 4px solid #2F1050;
   font-size: 0.875rem;
-  color: #000;
+  color: #2F1050;
 }
+
 .copy-btn {
   cursor: pointer;
-  background: #fff;
-  color: #000;
-  border: 2px solid #000;
+  background: #6400CD;
+  color: #FFFFFF;
+  border: 2px solid #2F1050;
   padding: 0.4em 0.8em;
   font-size: 0.95em;
 }
+
 .copy-btn:hover {
-  background: #000;
-  color: #fff;
+  background: #0067FA;
+  color: #FFFFFF;
 }
