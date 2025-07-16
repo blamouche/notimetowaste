@@ -2,15 +2,15 @@ body {
   font-family: "Courier New", monospace;
   margin: 0;
   line-height: 1.4;
-  background: #FFFFFF;
-  color: #2F1050;
+  background: #D9D9D9;
+  color: #1C1C1C;
 }
 header {
-  background: #6400CD;
+  background: #4A4A4A;
   color: #FFFFFF;
   padding: 2rem 1rem;
   text-align: center;
-  border-bottom: 4px solid #2F1050;
+  border-bottom: 4px solid #FF4C00;
 }
 header h1 {
   margin: 0;
@@ -26,8 +26,8 @@ header p {
   height: 300px;
 }
 nav {
-  background: #0067FA;
-  border-bottom: 4px solid #2F1050;
+  background: #FF4C00;
+  border-bottom: 4px solid #1C1C1C;
   text-align: center;
   padding: 0.75rem;
 }
@@ -40,25 +40,26 @@ nav a {
 }
 nav a:hover {
   background: #FFFFFF;
-  color: #2F1050;
+  color: #1C1C1C;
 }
 main {
   max-width: 900px;
   margin: 0 auto;
   padding: 1rem;
-  border-left: 4px solid #2F1050;
-  border-right: 4px solid #2F1050;
+  background: #FFFFFF;
+  border-left: 4px solid #1C1C1C;
+  border-right: 4px solid #1C1C1C;
 }
 section {
   margin-bottom: 3rem;
-  border-bottom: 2px dashed #2F1050;
+  border-bottom: 2px dashed #FF4C00;
   padding-bottom: 1rem;
 }
 h2 {
   font-size: 1.8rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
-  color: #6400CD;
+  color: #FF4C00;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -72,26 +73,26 @@ table {
   background: #FFFFFF;
 }
 table, th, td {
-  border: 2px solid #2F1050;
+  border: 2px solid #1C1C1C;
 }
 th, td {
   padding: 0.75rem;
   text-align: left;
 }
 th {
-  background: #0067FA;
+  background: #4A4A4A;
   color: #FFFFFF;
 }
 
 .table-section {
-  background: #0067FA;
-  color: #FFFFFF;
+  background: #D9D9D9;
+  color: #1C1C1C;
   font-weight: bold;
 }
 
 .template {
   background: #FFFFFF;
-  border: 2px solid #2F1050;
+  border: 2px solid #1C1C1C;
   padding: 1em;
   overflow-x: auto;
   font-size: 0.98em;
@@ -104,21 +105,21 @@ th {
 footer {
   text-align: center;
   padding: 2rem 1rem;
-  border-top: 4px solid #2F1050;
+  border-top: 4px solid #FF4C00;
   font-size: 0.875rem;
-  color: #2F1050;
+  color: #1C1C1C;
 }
 
 .copy-btn {
   cursor: pointer;
-  background: #6400CD;
+  background: #4A4A4A;
   color: #FFFFFF;
-  border: 2px solid #2F1050;
+  border: 2px solid #1C1C1C;
   padding: 0.4em 0.8em;
   font-size: 0.95em;
 }
 
 .copy-btn:hover {
-  background: #0067FA;
+  background: #FF4C00;
   color: #FFFFFF;
 }
