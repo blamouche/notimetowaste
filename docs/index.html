@@ -104,6 +104,20 @@
       border-top-right-radius: 1.25rem;
       box-shadow: 0 -2px 8px rgba(100,116,139,0.08);
     }
+    .copy-btn {
+      margin-bottom: 1.5em;
+      cursor: pointer;
+      background-color: #3b82f6;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      padding: 0.4em 0.8em;
+      font-size: 0.95em;
+      transition: background-color 0.2s;
+    }
+    .copy-btn:hover {
+      background-color: #2c6ad6;
+    }
   </style>
 
 
@@ -142,6 +156,7 @@
         <li><strong>Run</strong> a short, focused session</li>
         <li><strong>Follow-up</strong> with decisions and actions</li>
       </ol>
+      <p>The No Time To Waste method removes reporting meetings and replaces them with targeted working sessions. If there is no clear goal and tangible output, there is no meeting.</p>
     </section>
 
     <section id="levels">
@@ -162,16 +177,16 @@
           <tr><td>Share the topic to be discussed, the goal of the discussion, and the success criteria</td><td>✅</td><td>✅</td><td>✅</td></tr>
           <tr><td>Share status elements in a known, shared, and archivable place (OneNote, Loop, Notion…)</td><td>✅</td><td>✅</td><td>✅</td></tr>
           <tr><td>Share documents to read/know to effectively conduct the meeting</td><td>✅</td><td>✅</td><td>✅</td></tr>
-          <tr><td>Share concepts to know to effectively conduct the meeting</td><td>✅</td><td>✅</td><td>✅</td></tr>
           <tr><td>Respond YES to invitations if I can/must attend</td><td>✅</td><td>✅</td><td>✅</td></tr>
           <tr><td>Respond NO to invitations if I am absent/on leave/sick</td><td>✅</td><td>✅</td><td>✅</td></tr>
           <tr><td>Cancel my meetings if I am absent/on leave/sick</td><td>✅</td><td>✅</td><td>✅</td></tr>
-          <tr><td>Do not have "unanswered" meetings in the calendar</td><td>✅</td><td>✅</td><td>✅</td></tr>
           <tr><td>Take 5 minutes at the end of the week to review the meetings for the following week and check for conflicts</td><td>✅</td><td>✅</td><td>✅</td></tr>
-          <tr><td>Use the "mandatory" and "optional" features when scheduling the meeting</td><td>✅</td><td>✅</td><td>✅</td></tr>
-          <tr><td>Delay the start of the meeting by 5 minutes</td><td></td><td>✅</td><td>✅</td></tr>
+          <tr><td>Share concepts to know to effectively conduct the meeting</td><td></td><td>✅</td><td>✅</td></tr>
+          <tr><td>Do not have "unanswered" meetings in the calendar</td><td></td><td>✅</td><td>✅</td></tr>
+          <tr><td>Use the "mandatory" and "optional" features when scheduling the meeting</td><td></td><td>✅</td><td>✅</td></tr>
           <tr><td>Shorten the meeting by 10 minutes</td><td></td><td>✅</td><td>✅</td></tr>
           <tr><td>Take 5 minutes at the end of the day to review the meetings for the next day and check for conflicts</td><td></td><td>✅</td><td>✅</td></tr>
+          <tr><td>Delay the start of the meeting by 5 minutes</td><td></td><td></td><td>✅</td></tr>
           <tr><td>Take 5 minutes in the middle of the day to prepare for the meetings of the next day</td><td></td><td></td><td>✅</td></tr>
           <tr><td colspan="4" style="background:#e0e7ef;font-weight:bold;">During the meeting</td></tr>
           <tr><td>Apply the no time to waste pattern</td><td>✅</td><td>✅</td><td>✅</td></tr>
@@ -216,9 +231,9 @@ Level
 2 Level
 3
 </pre>
-      <button onclick="navigator.clipboard.writeText(document.getElementById('invite-template').textContent)" style="margin-bottom:1.5em;cursor:pointer;" title="Copier dans le presse-papier">📋 Copier</button>
-      <p><strong>Update Document:</strong></p>
-      <pre id="update-template" style="background:#f8fafc;border-radius:8px;padding:1em;overflow-x:auto;font-size:0.98em;">Date: [Insert date here]
+      <button class="copy-btn" onclick="navigator.clipboard.writeText(document.getElementById('invite-template').textContent)" title="Copier dans le presse-papier">📋 Copier</button>
+      <p><strong>Follow-up document:</strong></p>
+      <pre id="followup-template" style="background:#f8fafc;border-radius:8px;padding:1em;overflow-x:auto;font-size:0.98em;">Date: [Insert date here]
 
 Participants: [Insert list of participants here]
 
@@ -250,7 +265,7 @@ Next steps:
 [ ] List item
 [ ] List item
 </pre>
-      <button onclick="navigator.clipboard.writeText(document.getElementById('update-template').textContent)" style="margin-bottom:1.5em;cursor:pointer;" title="Copier dans le presse-papier">📋 Copier</button>
+      <button class="copy-btn" onclick="navigator.clipboard.writeText(document.getElementById('followup-template').textContent)" title="Copier dans le presse-papier">📋 Copier</button>
     </section>
 
     <section id="engagement">
@@ -276,7 +291,7 @@ Next steps:
   </main>
 
   <footer>
-    &copy; 2024 <a href="https://lamouche.fr" target="_blank" rel="noopener noreferrer">Benoit Lamouche</a> · Licensed under CC BY-NC-SA 4.0 · <a href="https://github.com/blamouche/notimetowaste" target="_blank" rel="noopener noreferrer">GitHub</a> · Version 1.2
+    &copy; 2024 <a href="https://lamouche.fr" target="_blank" rel="noopener noreferrer">Benoit Lamouche</a> · Licensed under CC BY-NC-SA 4.0 · <a href="https://github.com/blamouche/notimetowaste" target="_blank" rel="noopener noreferrer">GitHub</a> · Version 1.4
   </footer>
 </body>
 </html>
