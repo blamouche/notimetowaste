@@ -4,129 +4,11 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>No Time To Waste (Our Time)</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet" />
-  <style>
-    body {
-      font-family: 'Inter', sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      background: linear-gradient(135deg, #f8fafc 0%, #e0e7ef 100%);
-      color: #22223b;
-    }
-    header {
-      background: linear-gradient(90deg, #64748b 0%, #3b82f6 100%);
-      color: #fff;
-      padding: 2rem;
-      text-align: center;
-      box-shadow: 0 4px 16px rgba(59,130,246,0.08);
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5rem;
-      letter-spacing: 1px;
-      font-weight: 800;
-      text-shadow: 0 2px 8px rgba(59,130,246,0.08);
-    }
-    header p {
-      font-size: 1.2rem;
-      margin-top: 0.5rem;
-      opacity: 0.95;
-    }
-    nav {
-      background: #e0e7ef;
-      padding: 0.75rem;
-      text-align: center;
-      box-shadow: 0 2px 8px rgba(100,116,139,0.04);
-    }
-    nav a {
-      margin: 0 1rem;
-      color: #3b82f6;
-      text-decoration: none;
-      font-weight: 700;
-      transition: color 0.2s;
-    }
-    nav a:hover {
-      color: #64748b;
-    }
-    main {
-      max-width: 800px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-      background: #fff;
-      border-radius: 1.25rem;
-      box-shadow: 0 4px 32px rgba(100,116,139,0.07);
-    }
-    section {
-      margin-bottom: 3rem;
-    }
-    h2 {
-      border-bottom: 2px solid #e0e7ef;
-      padding-bottom: 0.5rem;
-      margin-top: 2rem;
-      color: #3b82f6;
-      font-weight: 700;
-    }
-    ul, ol {
-      padding-left: 1.5rem;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 1rem;
-      background: #f8fafc;
-      border-radius: 0.5rem;
-      overflow: hidden;
-      box-shadow: 0 2px 8px rgba(100,116,139,0.04);
-    }
-    table, th, td {
-      border: 1px solid #e0e7ef;
-    }
-    th, td {
-      padding: 0.75rem;
-      text-align: left;
-    }
-    th {
-      background-color: #fff;
-      color: #3b82f6;
-    }
-    .badge-img {
-      width: 100px;
-      vertical-align: middle;
-      margin-left: 4px;
-    }
-    footer {
-      text-align: center;
-      padding: 2rem;
-      background: #e0e7ef;
-      font-size: 0.875rem;
-      color: #64748b;
-      border-top-left-radius: 1.25rem;
-      border-top-right-radius: 1.25rem;
-      box-shadow: 0 -2px 8px rgba(100,116,139,0.08);
-    }
-    .copy-btn {
-      margin-bottom: 1.5em;
-      cursor: pointer;
-      background-color: #3b82f6;
-      color: #fff;
-      border: none;
-      border-radius: 4px;
-      padding: 0.4em 0.8em;
-      font-size: 0.95em;
-      transition: background-color 0.2s;
-    }
-    .copy-btn:hover {
-      background-color: #2c6ad6;
-    }
-  </style>
-
-
-
-
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
-    <h1><img src="icons/logo.png" alt="No Time To Waste" style="height:300px;"></h1>
+    <h1><img src="icons/logo.png" alt="No Time To Waste" class="logo"></h1>
     <p>Cut your meeting time by 4× — Less waste, more impact.</p>
   </header>
   <nav>
@@ -172,7 +54,7 @@
           </tr>
         </thead>
         <tbody>
-          <tr><td colspan="4" style="background:#e0e7ef;font-weight:bold;">Before the meeting</td></tr>
+          <tr><td colspan="4" class="table-section">Before the meeting</td></tr>
           <tr><td>Apply the no time to waste pattern</td><td>✅</td><td>✅</td><td>✅</td></tr>
           <tr><td>Share the topic to be discussed, the goal of the discussion, and the success criteria</td><td>✅</td><td>✅</td><td>✅</td></tr>
           <tr><td>Share status elements in a known, shared, and archivable place (OneNote, Loop, Notion…)</td><td>✅</td><td>✅</td><td>✅</td></tr>
@@ -188,13 +70,13 @@
           <tr><td>Take 5 minutes at the end of the day to review the meetings for the next day and check for conflicts</td><td></td><td>✅</td><td>✅</td></tr>
           <tr><td>Delay the start of the meeting by 5 minutes</td><td></td><td></td><td>✅</td></tr>
           <tr><td>Take 5 minutes in the middle of the day to prepare for the meetings of the next day</td><td></td><td></td><td>✅</td></tr>
-          <tr><td colspan="4" style="background:#e0e7ef;font-weight:bold;">During the meeting</td></tr>
+          <tr><td colspan="4" class="table-section">During the meeting</td></tr>
           <tr><td>Apply the no time to waste pattern</td><td>✅</td><td>✅</td><td>✅</td></tr>
           <tr><td>Be on time for meetings</td><td>✅</td><td>✅</td><td>✅</td></tr>
           <tr><td>Postpone the meeting if the "mandatory" participants are not present</td><td>✅</td><td>✅</td><td>✅</td></tr>
           <tr><td>Ensure that time is managed (timekeeper)</td><td></td><td>✅</td><td>✅</td></tr>
           <tr><td>Come prepared to the meetings</td><td></td><td>✅</td><td>✅</td></tr>
-          <tr><td colspan="4" style="background:#e0e7ef;font-weight:bold;">After the meeting</td></tr>
+          <tr><td colspan="4" class="table-section">After the meeting</td></tr>
           <tr><td>Share the minutes of the meeting</td><td>✅</td><td>✅</td><td>✅</td></tr>
           <tr><td>Share and assign the task list</td><td>✅</td><td>✅</td><td>✅</td></tr>
           <tr><td>Share the next steps</td><td>✅</td><td>✅</td><td>✅</td></tr>
@@ -206,7 +88,7 @@
     <section id="templates">
       <h2>📩 Templates</h2>
       <p><strong>Invite Template:</strong></p>
-      <pre id="invite-template" style="background:#f8fafc;border-radius:8px;padding:1em;overflow-x:auto;font-size:0.98em;">Meeting title : [An explicit and attractive title] - Read this before the meeting
+      <pre id="invite-template" class="template">Meeting title : [An explicit and attractive title] - Read this before the meeting
 
 Collaboration topic(s):
 
@@ -233,7 +115,7 @@ Level
 </pre>
       <button class="copy-btn" onclick="navigator.clipboard.writeText(document.getElementById('invite-template').textContent)" title="Copier dans le presse-papier">📋 Copier</button>
       <p><strong>Follow-up document:</strong></p>
-      <pre id="followup-template" style="background:#f8fafc;border-radius:8px;padding:1em;overflow-x:auto;font-size:0.98em;">Date: [Insert date here]
+      <pre id="followup-template" class="template">Date: [Insert date here]
 
 Participants: [Insert list of participants here]
 
