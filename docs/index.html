@@ -5,10 +5,24 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>No Time To Waste (Our Time)</title>
   <link rel="stylesheet" href="style.css" />
+  <style>
+    .logo-crop {
+      display: inline-block;
+      height: 60px; /* Ajustez la hauteur selon le crop souhaité */
+      overflow: hidden;
+      vertical-align: middle;
+    }
+    .logo-crop .logo {
+      display: block;
+      margin-top: -10px; /* Décale l'image vers le haut pour crop en haut */
+      height: 80px; /* Ajustez pour crop en bas aussi */
+      width: auto;
+    }
+  </style>
 </head>
 <body>
   <header>
-    <h1><img src="icons/logo.png" alt="No Time To Waste" class="logo"></h1>
+    <h1><span class="logo-crop"><img src="icons/logo.png" alt="No Time To Waste" class="logo"></span></h1>
     <p>Cut your meeting time by 4× — Less waste, more impact.</p>
   </header>
   <nav>
